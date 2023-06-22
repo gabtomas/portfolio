@@ -1,6 +1,6 @@
 export default [
     {
-        title: "MERN Applicationae",
+        title: "MERN Application",
         imgUrl: "./assets/mern_app.png",
         stack: ["MongoDB", "Express", "React", "JWT", "Node"],
         link: "https://mern-users-goals.onrender.com",
