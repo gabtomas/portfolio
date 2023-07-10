@@ -1,9 +1,9 @@
 export default [
     {
         title: "MERN Application",
-        imgUrl: "./assets/mern_app.png",
-        stack: ["MongoDB", "Express", "React", "JWT", "Node"],
-        link: "https://mern-users-goals.onrender.com",
+        imgUrl: "./assets/shopping_cart.png",
+        stack: ["React", "Bootstrap", "Typescript"],
+        link: "https://shopping-cart-tomas-gabriel.vercel.app/store",
     },
     {
         title: "DHL Pickup Scheduler",
