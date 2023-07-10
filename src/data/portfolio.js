@@ -11,8 +11,8 @@ export default [
         stack: ["Playwright", "Javascript", "Node"],
     },
     {
-        title: "Finding hidden API endpoints",
-        imgUrl: "./assets/charles.png",
-        stack: ["Charles Proxy", "Api", "Node"],
+        title: "Building a backend REST API with Node.js",
+        imgUrl: "./assets/backend.png",
+        stack: ["Express", "SQL", "Mongo", "Api", "Node"],
     },
 ];
