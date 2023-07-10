@@ -6,9 +6,10 @@ export default [
         link: "https://shopping-cart-tomas-gabriel.vercel.app/store",
     },
     {
-        title: "DHL Pickup Scheduler",
-        imgUrl: "./assets/dhl.png",
-        stack: ["Playwright", "Javascript", "Node"],
+        title: "School Project - Cookbook",
+        imgUrl: "./assets/cookbook.png",
+        stack: ["Express", "React", "Sqlite", "Mui"],
+        link: "https://github.com/Vetrovec/budget-cookbook",
     },
     {
         title: "Building a backend REST API with Node.js",
