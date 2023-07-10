@@ -14,5 +14,6 @@ export default [
         title: "Building a backend REST API with Node.js",
         imgUrl: "./assets/backend.png",
         stack: ["Express", "SQL", "Mongo", "Api", "Node"],
+        link: "https://github.com/gabtomas/cookbookmern",
     },
 ];
