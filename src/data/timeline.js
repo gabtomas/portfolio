@@ -1,8 +1,8 @@
 export default [
     {
         year: "Today",
-        title: "Web Scraper",
-        details: "I focus on how to get data from websites.",
+        title: "Junior Software Engineer",
+        details: "Working with Node.js",
     },
     {
         year: "2022-2025",
