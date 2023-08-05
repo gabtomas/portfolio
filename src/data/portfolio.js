@@ -1,9 +1,9 @@
 export default [
     {
-        title: "MERN Application",
+        title: "React Cocktails App",
         imgUrl: "./assets/shopping_cart.png",
-        stack: ["React", "Bootstrap", "Typescript"],
-        link: "https://shopping-cart-tomas-gabriel.vercel.app/store",
+        stack: ["React", "React Router", "React Hooks"],
+        link: "https://tg-cocktails.netlify.app/",
     },
     {
         title: "School Project - Cookbook",
