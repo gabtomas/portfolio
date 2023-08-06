@@ -1,7 +1,7 @@
 export default [
     {
         title: "React Cocktails App",
-        imgUrl: "./assets/shopping_cart.png",
+        imgUrl: "./assets/cocktails.png",
         stack: ["React", "React Router", "React Hooks"],
         link: "https://tg-cocktails.netlify.app/",
     },
